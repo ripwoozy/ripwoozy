@@ -14,7 +14,5 @@ print("𝚁𝙸𝙿 𝚆𝙾𝙾𝚉𝚈 𝟷𝟸/𝟸𝟻/𝟾𝟾 - 𝟺/𝟷�
 
 -----
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
