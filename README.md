@@ -2,7 +2,7 @@
 [![Cracked.to](https://img.shields.io/static/v1?style=flat-square&label=Cracked.to&message=3daWoozy&color=bd93f9)](https://cracked.to/3DaWoozy)
 ***
 ```python
-print("𝚁𝙸𝙿 𝚆𝙾𝙾𝚉𝚈 𝟷𝟸/𝟸𝟻/𝟾𝟾 - 𝟺/𝟷𝟸/𝟷𝟸")
+print("🩸 𝚁𝙸𝙿 𝚆𝙾𝙾𝚉𝚈 𝟷𝟸/𝟸𝟻/𝟾𝟾 - 𝟺/𝟷𝟸/𝟷𝟸 🩸")
 ```
 ***
 
