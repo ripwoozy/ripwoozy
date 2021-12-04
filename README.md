@@ -15,8 +15,6 @@ print("🩸 𝚁𝙸𝙿 𝚆𝙾𝙾𝚉𝚈 𝟷𝟸/𝟸𝟻/𝟾𝟾 - 𝟺/
 -----
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
-
-Python   56 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
