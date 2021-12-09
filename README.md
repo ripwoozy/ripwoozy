@@ -20,7 +20,7 @@ Icons: Flat-Remix-Blue-Dark [GTK 2/3]
 Memory: 2736 MiB / 7869 MiB
 Location: Unknown, ?
 Discord: Woozy#0001
-Status: 🩸 𝚁𝙸𝙿 𝚆𝙾𝙾𝚉𝚈 𝟷𝟸/𝟸𝟻/𝟾𝟾 - 𝟺/𝟷𝟸/𝟷𝟸 🩸
+Status: Injecting 🧛
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
