@@ -30,6 +30,8 @@ Status: Injecting 🧛
 -----
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 January, 2022 - 18 January, 2022
+
+Python   2 hrs 14 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
