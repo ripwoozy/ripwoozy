@@ -31,9 +31,7 @@ Status: Injecting 🧛
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
-
-Python   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
