@@ -19,7 +19,7 @@ Theme: Kali-Dark [GTK 2/3]
 Icons: Flat-Remix-Blue-Dark [GTK 2/3]
 Memory: 2736 MiB / 7869 MiB
 Location: Unknown, ?
-Discord: Woozy#0001
+Discord: Woozy#8455
 Status: Injecting 🧛
 ```
 <p align="left">
