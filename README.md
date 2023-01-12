@@ -27,7 +27,10 @@ Status: Injecting 🧛
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 January 2023 - To: 10 January 2023
+
+Python   9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.66 %
+HTML     0 secs          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.34 %
 ```
 
 <!--END_SECTION:waka-->
