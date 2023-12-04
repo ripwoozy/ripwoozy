@@ -9,17 +9,17 @@ Woozy
 OS: Kali GNU/Linux Rolling x86_64
 Kernel: 5.14 kali4-amd64
 Shell: zsh 5.8
-Resolution: 1920 x 1080
+Resolution: 2560 x 1440
 DE: Xfce 4.16
 WM: Xfwm4
 Theme: Kali-Dark 
-CPU: Intel i7-7700 (4) @ 3.599 GHz
+CPU: Intel i5-13600k  @ 5.100 GHz
 GPU: 00:0f VMware SVGA II Adapter
 Theme: Kali-Dark [GTK 2/3]
 Icons: Flat-Remix-Blue-Dark [GTK 2/3]
-Memory: 2736 MiB / 7869 MiB
+Memory: 16432 MiB / 32000 MiB
 Location: Unknown, ?
-Discord: Woozy#0666
+Discord: ripwoozy
 Status: Injecting 🧛
 ```
 
