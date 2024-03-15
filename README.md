@@ -24,7 +24,7 @@ Woozy's Brain Specs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
 No activity tracked
 ```
