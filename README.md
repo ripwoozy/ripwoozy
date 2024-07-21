@@ -1,7 +1,7 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnOipMsHmErfo09-mpcXcmA?color=bd93f9&label=Youtube&style=flat-square)](https://www.youtube.com/channel/UCnOipMsHmErfo09-mpcXcmA)
 [![Cracked.to](https://img.shields.io/static/v1?style=flat-square&label=Cracked.to&message=3daWoozy&color=bd93f9)](https://cracked.to/3DaWoozy)
 
-<img align="left" src="" alt="" width="320" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/63121659" alt="WoozyPFP" width="300" /> 
 
 ```csharp
 Woozy's Brain Specs
