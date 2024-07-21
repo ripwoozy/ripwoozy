@@ -16,6 +16,7 @@ Woozy's Brain Specs
 📍 Location: Unknown, ?
 🧠 Consciousness: Active
 🔧 Status: Injecting 🧛
+
 ```
 
 -----
