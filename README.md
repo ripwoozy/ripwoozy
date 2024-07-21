@@ -19,7 +19,6 @@ Woozy's Brain Specs
 🛡️ Security:  9mm Glock Defense System
 ```
 
------
 <!--START_SECTION:waka-->
 
 ```txt
