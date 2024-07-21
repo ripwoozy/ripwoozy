@@ -16,7 +16,7 @@ Woozy's Brain Specs
 📍 Location: Unknown, ?
 🧠 Consciousness: Active
 🔧 Status: Injecting 🧛
-
+🛡️ Security:  9mm Glock Defense System
 ```
 
 -----
