@@ -22,12 +22,9 @@ Woozy's Brain Specs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-HTML         10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.21 %
-CSS          6 mins          ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.02 %
-JavaScript   5 mins          ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.65 %
-Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
