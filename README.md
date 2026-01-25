@@ -1,5 +1,5 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnOipMsHmErfo09-mpcXcmA?color=bd93f9&label=Youtube&style=flat-square)](https://www.youtube.com/channel/UCnOipMsHmErfo09-mpcXcmA)
-[![Cracked.sh](https://img.shields.io/static/v1?style=flat-square&label=Cracked.to&message=3daWoozy&color=bd93f9)](https://cracked.sh/3DaWoozy)
+[![Cracked.sh](https://img.shields.io/static/v1?style=flat-square&label=Cracked.sh&message=3daWoozy&color=bd93f9)](https://cracked.sh/3DaWoozy)
 
 <img align="left" src="Assets/h.gif" alt="WoozyPFP" width="255" /> 
 
